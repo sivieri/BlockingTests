@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlockingTests</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Same thread</string>
+    <string name="title_section2">Different thread</string>
+    <string name="title_section3">Post</string>
+    <string name="title_section4">AsycnTask</string>
+    <string name="action_wait">Wait for it&#8230;</string>
+    <string name="action_done">&#8230; done!</string>
+    <string name="action_button">Start</string>
+    <string name="action_partial">almost there&#8230;</string>
+
+</resources>
