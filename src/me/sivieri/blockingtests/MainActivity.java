@@ -221,6 +221,7 @@ public class MainActivity extends FragmentActivity implements ActionBar.TabListe
 							case 4:
 								MainActivity mainActivity = (MainActivity) getActivity();
 								mainActivity.new ExampleAsyncTask(dummyTextView).execute(getString(R.string.action_partial));
+								Log.i(TAG, "Executed");
 								break;
 						// no default
 						}

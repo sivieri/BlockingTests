@@ -1,4 +1,4 @@
 BlockingTests
 =============
 
-Tests for threading in Android, for DIMA @ Polimi 2013
+Tests for threading in Android, for DIMA @ Polimi 2014
